@@ -1,2 +1,2 @@
 # Html
-Html ödevleri için
+Html ödev 1
